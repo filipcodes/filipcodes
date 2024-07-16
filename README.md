@@ -31,6 +31,10 @@ Welcome to my GitHub profile! I am a student and a part-time developer currently
 <!--START_SECTION:waka-->
 
 ```txt
+From: 08 July 2024 - To: 15 July 2024
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
