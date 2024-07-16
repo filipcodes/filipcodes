@@ -29,4 +29,9 @@ Welcome to my GitHub profile! I am a student and a part-time developer currently
 
 <h3 align="left">📊 This week I spent my time on</h3>
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
