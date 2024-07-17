@@ -18,5 +18,6 @@ jobs:
           SHOW_TITLE: true # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          IGNORED_LANGUAGES: YAML TOML # optional
           TIME_RANGE: last_7_days # optional
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
