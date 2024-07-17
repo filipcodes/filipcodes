@@ -31,11 +31,15 @@ Welcome to my GitHub profile! I am a student and a part-time developer currently
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2024 - To: 15 July 2024
+From: 09 July 2024 - To: 16 July 2024
 
-Total Time: 0 secs
+Total Time: 48 mins
 
-No activity tracked
+Vue.js       25 mins         █████████████▒░░░░░░░░░░░   52.96 %
+Go           20 mins         ██████████▓░░░░░░░░░░░░░░   42.98 %
+YAML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
