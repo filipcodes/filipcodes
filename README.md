@@ -1,11 +1,11 @@
-# 👋 Hi, my name is Filip
-Welcome to my GitHub profile! I am a student and a part-time developer currently based in Slovakia.
+# 👋 Hello there!
+Welcome to my GitHub profile! My name is Filip - I am a student and a part-time developer currently based in Slovakia.
 
 ---
 
-###⚡ Languages and Tools I Currently Use</h3>
+### ⚡ Languages and Tools I Specialise in</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,react,nodejs,firebase,azure,git,postman,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
