@@ -31,13 +31,8 @@
 ```txt
 From: 16 July 2024 - To: 23 July 2024
 
-Total Time: 11 hrs
+Total Time: 29 hrs
 
-Vue.js       7 hrs 30 mins   █████████████████░░░░░░░░   68.03 %
-Go           1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-JavaScript   1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-YAML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
