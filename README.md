@@ -27,12 +27,4 @@
 
 ### 📊 This week I spent my time on</h3>
 <!--START_SECTION:waka-->
-
-```txt
-From: 16 July 2024 - To: 23 July 2024
-
-Total Time: 29 hrs
-
-```
-
 <!--END_SECTION:waka-->
