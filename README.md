@@ -19,7 +19,7 @@
 </br>
 </br>
 
-### ⚡ Languages and tools I use:</h3>
+### ⚡ Languages and tools I use:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,react,nodejs,firebase,azure,git,postman,figma&theme=dark)](https://skillicons.dev)
 
