@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 13 August 2024
+From: 07 August 2024 - To: 14 August 2024
 
-Total Time: 2 hrs 24 mins
+Total Time: 40 mins
 
-Vue.js       1 hr 49 mins    ███████████████████░░░░░░   75.69 %
-JavaScript   35 mins         ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+Vue.js       23 mins         ██████████████▒░░░░░░░░░░   57.16 %
+JavaScript   17 mins         ██████████▓░░░░░░░░░░░░░░   42.84 %
 ```
 
 <!--END_SECTION:waka-->
