@@ -30,11 +30,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-Total Time: 0 secs
+Total Time: 40 mins
 
-Vue.js   0 secs          █████████████████████████   100.00 %
+JavaScript   29 mins         ██████████████████▒░░░░░░   73.69 %
+Vue.js       10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
