@@ -30,11 +30,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2025 - To: 14 January 2025
+From: 08 January 2025 - To: 15 January 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 49 mins
 
-No activity tracked
+JavaScript    57 mins         █████████████░░░░░░░░░░░░   52.31 %
+Vue.js        36 mins         ████████▒░░░░░░░░░░░░░░░░   32.87 %
+Git Config    9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+JSON          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+CSS           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
