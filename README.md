@@ -23,18 +23,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,react,nodejs,firebase,azure,git,postman,figma&theme=dark)](https://skillicons.dev)
 
----
 
-### 📊 This week I spent my time on</h3>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 17 June 2025 - To: 24 June 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
