@@ -3,7 +3,7 @@
 <p align="left">Welcome to my GitHub profile! My name is Filip - I am a software developer currently based in Slovakia.</p>
 <p align="left">In case you want to connect and/or work with me, check out the following links: </p>
 <div align="center">
-</br>
+
 </br>
 <a href="mailto:filipsipo@gmail.com">
 filipsipo@gmail.com
