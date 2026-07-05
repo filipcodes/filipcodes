@@ -8,7 +8,7 @@
 <a href="mailto:filipsipo@gmail.com">
 filipsipo@gmail.com
 </a>
-
+</br>
 <a href="filipsipos.dev">
 filipsipo.dev
 </a>
