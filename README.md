@@ -19,4 +19,4 @@ is pinned below.
 
 ## Links
 
-[filipsipos.dev](https://filipsipos.dev) · [LinkedIn](https://www.linkedin.com/in/filip-sipos/) · [filipsipo@gmail.com](mailto:filipsipo@gmail.com)
+<a href="https://filipsipos.dev" target="_blank" rel="noopener noreferrer">filipsipos.dev</a>  ·  <a href="https://www.linkedin.com/in/filip-sipos/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  ·  [filipsipo@gmail.com](mailto:filipsipo@gmail.com)
