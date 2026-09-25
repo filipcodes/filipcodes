@@ -1,21 +1,18 @@
 # Filip Šipoš
 
 Full-stack engineer, 4+ years across B2B SaaS, fintech, and Web3.
-Currently building production AI/LLM systems — agentic pipelines, RAG,
-and the data infrastructure beneath them.
+Currently building production AI/LLM systems — agentic pipelines, RAG, the data and infra beneath them.
 
-Most of my work lives in private client repos — so the contribution graph undersells it. Public work
-is pinned below.
+Most of my work lives in private client repos so the contribution graph undersells it. Public work below.
 
 ## What I usually work with
 
 * **Languages** — TypeScript, JavaScript, Python
-* **Backend** — Node.js, NestJS, tRPC, GraphQL, REST, Prisma
-* **Data** — PostgreSQL, Redis
-* **AI / LLM** — agentic pipelines, RAG, AWS Bedrock, LightGBM
+* **Backend Tech & Communication** — Node.js, NestJS, tRPC, GraphQL, REST, Prisma
+* **Data** — PostgreSQL (and many other RDBMSs), Redis
+* **AI / LLM / ML** — agentic pipelines, RAG, AWS Bedrock, LightGBM
 * **Frontend** — React, Next.js, React Native, Vue, Nuxt, Tailwind CSS
-* **Cloud** — AWS (Lambda, RDS, Bedrock), Docker, Vercel
-* **Testing** — Jest, Playwright, Cypress
+* **Cloud** — AWS, GCP
 
 ## Links
 
